@@ -1,5 +1,3 @@
-# XSS Payload Collection
-
 ## Description
 
 This repository contains a collection of XSS payloads designed to bypass various Web Application Firewalls (WAFs). The security solutions included are Imperva Cloud, CloudFront, Akamai, among others. The payloads are organized by the type of WAF they are intended to evade, making it easier to use them in specific tests.
